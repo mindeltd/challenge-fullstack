@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Task for Fullstack Developer
 
 ## Few simple steps
@@ -45,5 +43,3 @@
 - We always prefer the code that is robust, easy to read and re-usable
 - Make design user friendly
 - Have fun!
->>>>>>> ff15b0074089924bbd9870e06fc7aab8034ecf19
-
